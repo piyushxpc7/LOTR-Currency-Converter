@@ -1,0 +1,1 @@
+The Lords of the Ring Converter Swift App is a currency conversion application inspired by the fictional world of Middle-earth from J.R.R. Tolkien's "The Lord of the Rings." This app allows users to convert different types of currencies used in Middle-earth, including gold pennies, silver pennies, and pieces, with each other.
